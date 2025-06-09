@@ -1,2 +1,2 @@
 # cit281-p5
- Building RESTful endpoints.
+In Project 5, you create a web-based game using JavaScript classes, Node.js, and Express. You build a class file with properties and methods, a game logic file using arrays and array methods, and a web server file with GET and POST routes serving JSON. The project includes a simple client with HTML, CSS, and JavaScript that interacts with the server via API calls. You also document your project with a PDF including screenshots and AI resources used. This project develops skills in classes, modules, web servers, and client-server interaction.
